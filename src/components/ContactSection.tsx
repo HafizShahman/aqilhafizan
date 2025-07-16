@@ -63,7 +63,7 @@ const ContactSection = () => {
       organization: 'Freelance',
       github: 'https://github.com/aqiloska',
       linkedin: 'https://www.linkedin.com/in/ts-muhammad-aqil-hafizzan-3941b0100/',
-      tiktok: 'https://tiktok.com/aqilhafizzan',
+      tiktok: 'https://tiktok.com/@aqilhafizzan',
     };
 
     downloadVCard(vCardData);
@@ -156,12 +156,12 @@ const ContactSection = () => {
     {
       icon: TiktokIcon,
       label: 'TikTok',
-      href: 'https://tiktok.com/aqilhafizzan',
+      href: 'https://www.tiktok.com/@aqilhafizzan',
       color: 'hover:text-accent'
     },
     {
       icon: WhatsAppIcon,
-      label: 'TikTok',
+      label: 'WhatsApp',
       href: 'https://wa.me/60122426746',
       color: 'hover:text-accent'
     }
